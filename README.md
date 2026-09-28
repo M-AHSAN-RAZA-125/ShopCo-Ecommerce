@@ -25,6 +25,15 @@ A modern and responsive e-commerce website built with React.js, focused on a cle
 
 🌐 **Live Demo:** [ShopCo E-Commerce](https://shopco-e.netlify.app/)
 
+## 👨‍💻 Developer
+
+**Ahsan Raza**
+
+Frontend Developer | JavaScript | React
+
+- GitHub: [M-AHSAN-RAZA-125](https://github.com/M-AHSAN-RAZA-125)
+- Instagram: [@ahsan.x.dev](https://www.instagram.com/ahsan.x.dev/)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
