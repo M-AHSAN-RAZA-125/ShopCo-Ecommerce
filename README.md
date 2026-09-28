@@ -19,9 +19,11 @@ A modern and responsive e-commerce website built with React.js, focused on a cle
 - CSS3
 - Tailwind CSS
 
-## 🌐 Live Demo
+## 📸 Preview
 
-[View ShopCo Live](https://shopco-e.netlify.app/)
+![ShopCo E-Commerce Preview](shopco-preview.png)
+
+🌐 **Live Demo:** [ShopCo E-Commerce](https://shopco-e.netlify.app/)
 
 ## 🚀 Getting Started
 
